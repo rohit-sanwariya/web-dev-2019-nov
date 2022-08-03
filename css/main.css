@@ -2,7 +2,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 /* Main styling*/
@@ -12,7 +12,7 @@ html {
   line-height: 1.3cm;
 }
 a {
-  color: #333;
+  color: #232323;
   text-decoration: none;
 }
 h1,
